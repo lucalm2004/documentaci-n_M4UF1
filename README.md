@@ -1,6 +1,6 @@
 # Documentacion_M4UF1
 
-| Indice |
+| Indice | Apartados |
 | - | :-: |
 | 1 | .git |
 | 2 | GitHub |
