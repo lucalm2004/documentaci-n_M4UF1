@@ -19,7 +19,7 @@ git config --global user.name "Tu nombre"
 
 git config --global user.email "ejemplo@email.com"
 ````
-### Recuerda que debes de cambiar Tu Nombre y ejemplo@email.com por tu información.
+Recuerda que debes de cambiar Tu *Nombre* y *ejemplo@email.com* por tu **información**.
 
 
 ### 2. GitHub
