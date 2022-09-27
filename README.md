@@ -25,3 +25,5 @@ Recuerda que debes de cambiar Tu *Nombre* y *ejemplo@email.com* por tu **informa
 ### 2. GitHub
 ### 3. Visual Studio Code
 ### 4. MarkDown
+### 5. HTML
+
