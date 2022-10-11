@@ -21,9 +21,38 @@ git config --global user.email "ejemplo@email.com"
 ````
 Recuerda que debes de cambiar Tu *Nombre* y *ejemplo@email.com* por tu **información**.
 
+#### COMANDO .git
+````
+git add .
+git commit -m "nombreversion"
+````
+
 
 ### 2. GitHub
+_**PRIMERO**_, Si quieres crear una cuenta personal nueva, asegúrate de haber cerrado sesión en GitHub.
+
+_**SEGUNDO**_, Vaya a la página de precios de GitHub.
+
+_**TERCERO**_, Lea la información acerca de los diferentes productos y suscripciones que GitHub ofrece y, después, haga clic en el botón actualizar de la suscripción que quiere elegir.
+
+_**CUARTO**_, Sigue las indicaciones para crear tu cuenta personal o de organización.
+
 ### 3. Visual Studio Code
+
+_**PRIMERO**_, Ve a la página de [Microsoft Visual Studio Code](https://code.visualstudio.com/) y haz clic en el botón ‘Descargar Visual Studio Code’ acorde a tu sistema operativo para descargar el archivo de instalación.
+
+_**SEGUNDO**_, Abre el archivo de instalación en tu carpeta de descargas para iniciar la instalación.
+
+_**TERCERO**_, Lee y acepta el acuerdo de licencia. Haz clic en Next para continuar.
+
+_**CUARTO**_, Puedes cambiar la ubicación de la carpeta de instalación o mantener la configuración predeterminada. Haz clic en Next para continuar.
+
+_**QUINTO**_, Elige si deseas cambiar el nombre de la carpeta de accesos directos en el menú Inicio o si no deseas instalar accesos directos en absoluto. Haz clic en Next.
+
+_**SEXTO**_, Selecciona las tareas adicionales, por ej. crear un icono en el escritorio o añadir opciones al menú contextual de Windows Explorer. Haz clic en Next.
+
+_**SEPTIMO**_, Haz clic en Install para iniciar la instalación, ya el programa está instalado y listo para usar. Haz clic en Finish para finalizar la instalación y comenzar a usar el programa.
+
 ### 4. MarkDown
 ### 5. HTML
 
