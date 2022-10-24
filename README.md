@@ -168,6 +168,8 @@ _**Salto de linea**_
 
 _**Linea**_
 <hr>
+  ![image](https://user-images.githubusercontent.com/75097605/197519283-8625bccb-84aa-42a4-b1a7-31b078347663.png)
+
 
 _**Imagen**_
 
