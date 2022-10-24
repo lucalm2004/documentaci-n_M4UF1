@@ -39,9 +39,20 @@ _**CUARTO**_, Sigue las indicaciones para crear tu cuenta personal o de organiza
 
 #### Creación repositorio
 
+_**PRIMERO**_, ir a la parte superior derecha y hacer clic en new repository
+
 ![image](https://user-images.githubusercontent.com/75097605/197509463-b641c243-9560-4219-a181-3dbce1c7a72a.png)
 
-_**PRIMERO**_, ir a la parte superior derecha y hacer clic en new repository
+_**SEGUNDO**_, poner un nombre y hacer clic en create repository
+
+![image](https://user-images.githubusercontent.com/75097605/197509788-9184a70b-6de8-4835-84e9-2eed30fec98f.png)
+![image](https://user-images.githubusercontent.com/75097605/197509879-78f45872-146a-44b7-84c8-5ef51ae537ec.png)
+
+_**TERCERO**_, Copiar y pegar los siguientes comando en la terminal del visual, hacer ctrl + ñ
+![image](https://user-images.githubusercontent.com/75097605/197509995-5cc84dd4-bc0d-4b42-8e2f-b34092269c4e.png)
+![image](https://user-images.githubusercontent.com/75097605/197510079-54780cea-f272-435a-b7df-e66bdc79f322.png)
+
+
 
 ### 3. Visual Studio Code
 
