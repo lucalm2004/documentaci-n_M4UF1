@@ -37,6 +37,12 @@ _**TERCERO**_, Lea la información acerca de los diferentes productos y suscripc
 
 _**CUARTO**_, Sigue las indicaciones para crear tu cuenta personal o de organización.
 
+#### Creación repositorio
+
+![image](https://user-images.githubusercontent.com/75097605/197509463-b641c243-9560-4219-a181-3dbce1c7a72a.png)
+
+_**PRIMERO**_, ir a la parte superior derecha y hacer clic en new repository
+
 ### 3. Visual Studio Code
 
 _**PRIMERO**_, Ve a la página de [Microsoft Visual Studio Code](https://code.visualstudio.com/) y haz clic en el botón ‘Descargar Visual Studio Code’ acorde a tu sistema operativo para descargar el archivo de instalación.
