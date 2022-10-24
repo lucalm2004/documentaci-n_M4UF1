@@ -62,5 +62,52 @@ _**Headings**_
 ##### Heading level 5	
 ###### Heading level 6
 
+_**Lista Ordenada**_
+1. Primero
+2. Segundo
+3. Tercero
+
+_**Listas No Ordenadas**_
+``
+*
+``
+* Primero
+* Segundo
+* Tercero
+
+_**Negrita**_
+``
+** **
+``
+**Esto es un texto en negrita**
+
+_**Cursiva**_
+``
+* *
+``
+*Esto es un texto con cursiva*
+``
+_ _
+``
+_Esto es un texto con cursiva_
+
+_**Enlaçes**_
+``
+[texto](url)
+``
+[Ve a google](https://google.com)
+
+_**Imagenes**_
+``
+![texto](url)
+``
+![Img](![image](https://user-images.githubusercontent.com/75097605/197508424-7d5748ea-2def-4f34-8186-16296dd73b37.png)
+)
+
+
+
+
+
+
 ### 5. HTML
 
