@@ -57,10 +57,15 @@ _**TERCERO**_, Copiar y pegar los siguientes comando en la terminal del visual, 
 ### 3. Visual Studio Code
 
 _**PRIMERO**_, Ve a la página de [Microsoft Visual Studio Code](https://code.visualstudio.com/) y haz clic en el botón ‘Descargar Visual Studio Code’ acorde a tu sistema operativo para descargar el archivo de instalación.
+![image](https://user-images.githubusercontent.com/75097605/197510320-0c17a45c-14f1-4baa-ac62-95f2b137e234.png)
+
 
 _**SEGUNDO**_, Abre el archivo de instalación en tu carpeta de descargas para iniciar la instalación.
+![image](https://user-images.githubusercontent.com/75097605/197510546-71e24257-0e5f-40a8-bf18-96731d7ed074.png)
+
 
 _**TERCERO**_, Lee y acepta el acuerdo de licencia. Haz clic en Next para continuar.
+![image](https://user-images.githubusercontent.com/75097605/197510516-89c45e27-3b9a-433f-952f-a735221c1712.png)
 
 _**CUARTO**_, Puedes cambiar la ubicación de la carpeta de instalación o mantener la configuración predeterminada. Haz clic en Next para continuar.
 
@@ -69,6 +74,8 @@ _**QUINTO**_, Elige si deseas cambiar el nombre de la carpeta de accesos directo
 _**SEXTO**_, Selecciona las tareas adicionales, por ej. crear un icono en el escritorio o añadir opciones al menú contextual de Windows Explorer. Haz clic en Next.
 
 _**SEPTIMO**_, Haz clic en Install para iniciar la instalación, ya el programa está instalado y listo para usar. Haz clic en Finish para finalizar la instalación y comenzar a usar el programa.
+![image](https://user-images.githubusercontent.com/75097605/197510640-3ba54873-6d50-4dff-ba74-a4b764916cd8.png)
+
 
 ### 4. MarkDown
 _**Headings**_
