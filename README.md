@@ -140,14 +140,13 @@ El elemento <body> contiene todo el contenido de un documento HTML, como encabez
 
 _**Heading**_
   
- <!-- 
+**h1,h2,h3,h4,h5,h6**
 <h1> head1
 <h2> head2
 <h3> head3
 <h4> head4
 <h5> head5
 <h6> head6
-  -->
   ![image](https://user-images.githubusercontent.com/75097605/197512693-234c847d-0e8a-4185-af24-147ae67eeeed.png)
 
 
@@ -156,7 +155,8 @@ _**Favicon**_
 ![image](https://user-images.githubusercontent.com/75097605/197512850-bcb07b25-e4db-4e8e-a53d-59d90e9b07eb.png)
 
 _**Parrafo**_
-  <!--<p>texto</p>-->
+  p
+  <p>texto</p>
 _**Salto de linea**_
 
 _**Linea**_
