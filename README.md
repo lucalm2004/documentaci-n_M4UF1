@@ -131,10 +131,12 @@ _**Imagenes**_
 
 ### 5. HTML
 _**Header**_
+
 el head en html es la primera sección del código que contiene información sobre las propiedades de una página web y enlaces a archivos externos relacionados. Por ejemplo, en el encabezado HTML, puede tener el título de la página, metaetiquetas, código CSS, etiquetas Open Graph y código JavaScript.
 ![image](https://user-images.githubusercontent.com/75097605/197511613-8a90c51c-67a3-4f60-87b5-ac758d050671.png)
 
 _**Body**_
+
 El elemento <body> contiene todo el contenido de un documento HTML, como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc. Nota: Solo puede haber un elemento <body> en un documento HTML.
   ![image](https://user-images.githubusercontent.com/75097605/197511722-380f3e23-06ab-4473-afed-d74d6da2107e.png)
 
@@ -152,27 +154,32 @@ _**Heading**_
 
 
 _**Favicon**_
+  
     <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
   
 ![image](https://user-images.githubusercontent.com/75097605/197512850-bcb07b25-e4db-4e8e-a53d-59d90e9b07eb.png)
 
 _**Parrafo**_
+  
   p
   <p>texto</p>
   
 _**Salto de linea**_
+  
   <br>
   br
   
   ![image](https://user-images.githubusercontent.com/75097605/197519440-a4ff4b2b-b72c-4883-a2ac-f57f63259779.png)
   
 _**Linea**_
+  
 <hr>
 
   ![image](https://user-images.githubusercontent.com/75097605/197519283-8625bccb-84aa-42a4-b1a7-31b078347663.png)
 
 
 _**Imagen**_
+  
  img src="img/image.jpg" alt=""
   
 ![image](https://user-images.githubusercontent.com/75097605/197519518-e7e205b1-0f2e-4b6b-822d-57af5dc4cc29.png)
