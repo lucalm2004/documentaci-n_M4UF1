@@ -83,7 +83,7 @@ _**Negrita**_
 
 _**Cursiva**_
 ``
-* *
+**
 ``
 *Esto es un texto con cursiva*
 ``
@@ -103,10 +103,6 @@ _**Imagenes**_
 ``
 ![Img](![image](https://user-images.githubusercontent.com/75097605/197508424-7d5748ea-2def-4f34-8186-16296dd73b37.png)
 )
-
-
-
-
 
 
 ### 5. HTML
