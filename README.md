@@ -147,17 +147,24 @@ _**Heading**_
 <h4> head4
 <h5> head5
 <h6> head6
-  ![image](https://user-images.githubusercontent.com/75097605/197512693-234c847d-0e8a-4185-af24-147ae67eeeed.png)
+  
+![image](https://user-images.githubusercontent.com/75097605/197512693-234c847d-0e8a-4185-af24-147ae67eeeed.png)
 
 
 _**Favicon**_
     <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
+  
 ![image](https://user-images.githubusercontent.com/75097605/197512850-bcb07b25-e4db-4e8e-a53d-59d90e9b07eb.png)
 
 _**Parrafo**_
   p
   <p>texto</p>
+  
 _**Salto de linea**_
+  <hr>
+  hr
+  
+![image](https://user-images.githubusercontent.com/75097605/197513271-8d88e500-bf6e-4539-ac2d-7b59c15d2013.png)
 
 _**Linea**_
 <hr>
