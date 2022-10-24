@@ -161,18 +161,21 @@ _**Parrafo**_
   <p>texto</p>
   
 _**Salto de linea**_
-  <hr>
-  hr
+  <br>
+  br
   
-![image](https://user-images.githubusercontent.com/75097605/197513271-8d88e500-bf6e-4539-ac2d-7b59c15d2013.png)
-
+  ![image](https://user-images.githubusercontent.com/75097605/197519440-a4ff4b2b-b72c-4883-a2ac-f57f63259779.png)
+  
 _**Linea**_
 <hr>
+
   ![image](https://user-images.githubusercontent.com/75097605/197519283-8625bccb-84aa-42a4-b1a7-31b078347663.png)
 
 
 _**Imagen**_
-
+ img src="img/image.jpg" alt=""
+  
+![image](https://user-images.githubusercontent.com/75097605/197519518-e7e205b1-0f2e-4b6b-822d-57af5dc4cc29.png)
 
 
 
