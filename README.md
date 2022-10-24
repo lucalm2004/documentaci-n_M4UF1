@@ -54,5 +54,13 @@ _**SEXTO**_, Selecciona las tareas adicionales, por ej. crear un icono en el esc
 _**SEPTIMO**_, Haz clic en Install para iniciar la instalación, ya el programa está instalado y listo para usar. Haz clic en Finish para finalizar la instalación y comenzar a usar el programa.
 
 ### 4. MarkDown
+_**Headings**_
+# Heading level 1	
+## Heading level 2
+### Heading level 3	
+#### Heading level 4
+##### Heading level 5	
+###### Heading level 6
+
 ### 5. HTML
 
