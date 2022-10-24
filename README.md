@@ -77,7 +77,7 @@ _**Listas No Ordenadas**_
 
 _**Negrita**_
 ``
-** **
+**texto**
 ``
 **Esto es un texto en negrita**
 
