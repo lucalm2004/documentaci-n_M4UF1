@@ -164,7 +164,6 @@ _**Heading**_
   
 ![image](https://user-images.githubusercontent.com/75097605/197512693-234c847d-0e8a-4185-af24-147ae67eeeed.png)
 
-
 _**Favicon**_
   
   El Favicon es un pequeño ícono de 16x16 píxeles que se utiliza en los navegadores web para representar un sitio o una página web.
@@ -206,5 +205,7 @@ _**Links**_
  Con la a crea un enlace a otras páginas de internet, archivos o ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL.
 ![image](https://user-images.githubusercontent.com/75097605/208616839-5518f413-0d94-4af7-92be-c064699e3224.png)
 
+  
+  
 
 
