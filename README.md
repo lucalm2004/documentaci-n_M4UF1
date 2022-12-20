@@ -6,6 +6,9 @@
 | 2 | GitHub |
 | 3 | VisualS |
 | 4 | MarkDown |
+| 5 | HTML |
+| 6 | ESTILOS CSS |
+
 
 
 ### 1. .git
@@ -139,7 +142,7 @@ _**Body**_
 
 El elemento <body> contiene todo el contenido de un documento HTML, como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc. Nota: Solo puede haber un elemento <body> en un documento HTML.
   ![image](https://user-images.githubusercontent.com/75097605/197511722-380f3e23-06ab-4473-afed-d74d6da2107e.png)
-
+  
 _**Title**_
 
 El elemento <title>: Título descriptivo de la página web. Normalmente aparece en la barra del navegador, también es el texto que se almacena en los marcadores del navegador (lista de marcadores).
@@ -205,7 +208,11 @@ _**Links**_
  Con la a crea un enlace a otras páginas de internet, archivos o ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL.
 ![image](https://user-images.githubusercontent.com/75097605/208616839-5518f413-0d94-4af7-92be-c064699e3224.png)
 
+  ### 6. Estilos CSS
   
-  
+  CSS, o "hojas de estilo en cascada", se utiliza para diseñar y personalizar páginas web. Se puede usar para ajustar el tamaño del contenido, el espaciado, el color y la fuente, o agregar características decorativas, como animaciones o dividir el contenido en columnas.
 
+  _**Tipos de elemenetos **_
+
+  
 
