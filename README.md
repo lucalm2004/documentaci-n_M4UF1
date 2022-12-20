@@ -158,12 +158,12 @@ _**Heading**_
  El heading implementan seis niveles de encabezado del documento, h1 es el más importante, y h6 , el menos importante.
   
  **h1,h2,h3,h4,h5,h6**
-<h1> head1
-<h2> head2
-<h3> head3
-<h4> head4
-<h5> head5
-<h6> head6
+<h1> head1 </h1>
+<h2> head2 </h2>
+<h3> head3 </h3>
+<h4> head4 </h4>
+<h5> head5 </h5>
+<h6> head6 </h6>
   
 ![image](https://user-images.githubusercontent.com/75097605/197512693-234c847d-0e8a-4185-af24-147ae67eeeed.png)
 
