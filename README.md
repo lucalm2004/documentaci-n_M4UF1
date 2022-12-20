@@ -244,6 +244,6 @@ _**Links**_
   - background-image: url('url de la imagen/ruta de la imagen'); --> añade una imagen de fondo 
   - font-size: 20px; --> regula la grandez de la letra
   - font-family: 'Arial', cursive; --> cambia el tipo de fuente del documento 
-
+  - border-color: white; --> cambia el color del borde
   
 
