@@ -223,5 +223,5 @@ _**Links**_
   
   - Atributos Core: Son aquellos que los defines en la etiqueta dandole un nombre para poder definirlos, para ello hay tipos, si lo defines como tipo clase pondras . en css lo puedes poner en las etiquetas que quieras, si los defines por id pondras # solo se puede en uno, style se usa para añadirlos en la propia etiqueta los estilos que le querramos meter y title se usa para añadir informacion pequeña dentra de un elemento. 
   ![image](https://user-images.githubusercontent.com/75097605/208622760-6b98cde3-fc78-4b0a-a3e0-a76a20619f00.png)
-
+ 
 
