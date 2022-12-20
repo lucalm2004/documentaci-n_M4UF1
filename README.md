@@ -245,5 +245,6 @@ _**Links**_
   - font-size: 20px; --> regula la grandez de la letra
   - font-family: 'Arial', cursive; --> cambia el tipo de fuente del documento 
   - border-color: white; --> cambia el color del borde
-  
+  - border-style: solid; --> añade un borde
+ 
 
