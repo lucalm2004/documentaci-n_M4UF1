@@ -224,4 +224,26 @@ _**Links**_
   - Atributos Core: Son aquellos que los defines en la etiqueta dandole un nombre para poder definirlos, para ello hay tipos, si lo defines como tipo clase pondras . en css lo puedes poner en las etiquetas que quieras, si los defines por id pondras # solo se puede en uno, style se usa para añadirlos en la propia etiqueta los estilos que le querramos meter y title se usa para añadir informacion pequeña dentra de un elemento. 
   ![image](https://user-images.githubusercontent.com/75097605/208622760-6b98cde3-fc78-4b0a-a3e0-a76a20619f00.png)
  
+ 
+  _**Tipos de selectores:**_
+  - Selectores de atributos: Permite que afecte el estilo a aquel atributo que contenga la etiqueta, es decir todas los que tengas 'alt' o puedes epecificar tambien con el 'src:google.com'
+  - Selectores de hijo: Son aquellos estilos a lo que quieras dar al hijo, es decir, afecta a todas las que esten seguidas pero cuando haya otra etiueta en medio ya no se aplicara. 
+  - Selectores descendientes: olo seleccionan elementos descendientes DIRECTOS, los selectores de descendientes seleccionan los elementos pertinentes EN CUALQUIER PUNTO de la jerarquía del elemento.
+
+    _**Ejemplos de estilos:**_
+  
+  - Color: blue; --> cambia el color de la letra
+  - Background-color: blue; --> cambia el color del fondo
+  - margin: 10px 2px 10px 2px; --> aplica un margen
+  - padding: 10px 2px 10px 2px; --> aplica un relleno
+  - border-radius: 10px --> aplica un borde completo
+  - text-align: center/justify; --> pone el texto con el formato que quieras
+  - width: 100%; --> ancho 
+  - height: 100%; --> largo
+  - text-decoration: none; -->  quita la decoracion
+  - background-image: url('url de la imagen/ruta de la imagen'); --> añade una imagen de fondo 
+  - font-size: 20px; --> regula la grandez de la letra
+  - font-family: 'Arial', cursive; --> cambia el tipo de fuente del documento 
+
+  
 
