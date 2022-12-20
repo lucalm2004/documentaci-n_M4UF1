@@ -140,14 +140,20 @@ _**Body**_
 El elemento <body> contiene todo el contenido de un documento HTML, como encabezados, párrafos, imágenes, hipervínculos, tablas, listas, etc. Nota: Solo puede haber un elemento <body> en un documento HTML.
   ![image](https://user-images.githubusercontent.com/75097605/197511722-380f3e23-06ab-4473-afed-d74d6da2107e.png)
 
+_**Title**_
+
 El elemento <title>: Título descriptivo de la página web. Normalmente aparece en la barra del navegador, también es el texto que se almacena en los marcadores del navegador (lista de marcadores).
 ![image](https://user-images.githubusercontent.com/75097605/208615143-f52d0ec5-fbe3-4b0c-9cb4-a8e9d912f51e.png)
+
+_**Meta**_
 
 El elemento <meta />: Metainformación de la página. Podemos poner varias marcas <meta>, que proporcionan información no visible del documento.
 ![image](https://user-images.githubusercontent.com/75097605/208615122-8aa6e609-e5b5-4810-b4a2-7f8627f0d79b.png)
 
 _**Heading**_
+  
  El heading implementan seis niveles de encabezado del documento, <h1> es el más importante, y <h6> , el menos importante.
+  
  **h1,h2,h3,h4,h5,h6**
 <h1> head1
 <h2> head2
@@ -160,40 +166,43 @@ _**Heading**_
 
 
 _**Favicon**_
+  
   El Favicon es un pequeño ícono de 16x16 píxeles que se utiliza en los navegadores web para representar un sitio o una página web.
     <link rel="shortcut icon" href="img/logo.jpg" type="image/x-icon">
   
 ![image](https://user-images.githubusercontent.com/75097605/197512850-bcb07b25-e4db-4e8e-a53d-59d90e9b07eb.png)
 
 _**Parrafo**_
+  
  El elemento p (párrafo) es el apropiado para distribuir el texto en párrafos.
   <p>texto</p>
   
 _**Salto de linea**_
+  
  El elemento HTML line break <br> produce un salto de línea en el texto
   <br>
-  
-  
   ![image](https://user-images.githubusercontent.com/75097605/197519440-a4ff4b2b-b72c-4883-a2ac-f57f63259779.png)
   
 _**Linea**_
+  
  El elemento HTML <hr> representa un cambio de tema entre párrafos
 <hr>
-
   ![image](https://user-images.githubusercontent.com/75097605/197519283-8625bccb-84aa-42a4-b1a7-31b078347663.png)
 
-
 _**Imagen**_
+  
   El elemento de imagen HTML <`img> representa una imagen en el documento.
  img src="img/image.jpg" alt=""
   
 ![image](https://user-images.githubusercontent.com/75097605/197519518-e7e205b1-0f2e-4b6b-822d-57af5dc4cc29.png)
 
 _**Div**_
+  
 El Div se emplea para definir un bloque de contenido o sección de la página, para poder aplicarle diferentes estilos e incluso para realizar operaciones sobre ese bloque específico. 
 ![image](https://user-images.githubusercontent.com/75097605/208616744-22dbdfe5-6ee8-43b6-a17a-b20061197f53.png)
 
 _*Links**_
+  
  Con la a crea un enlace a otras páginas de internet, archivos o ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL.
 ![image](https://user-images.githubusercontent.com/75097605/208616839-5518f413-0d94-4af7-92be-c064699e3224.png)
 
