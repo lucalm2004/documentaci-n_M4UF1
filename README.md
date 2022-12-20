@@ -152,7 +152,7 @@ El elemento <meta />: Metainformación de la página. Podemos poner varias marca
 
 _**Heading**_
   
- El heading implementan seis niveles de encabezado del documento, <h1> es el más importante, y <h6> , el menos importante.
+ El heading implementan seis niveles de encabezado del documento, h1 es el más importante, y h6 , el menos importante.
   
  **h1,h2,h3,h4,h5,h6**
 <h1> head1
@@ -201,7 +201,7 @@ _**Div**_
 El Div se emplea para definir un bloque de contenido o sección de la página, para poder aplicarle diferentes estilos e incluso para realizar operaciones sobre ese bloque específico. 
 ![image](https://user-images.githubusercontent.com/75097605/208616744-22dbdfe5-6ee8-43b6-a17a-b20061197f53.png)
 
-_*Links**_
+_**Links**_
   
  Con la a crea un enlace a otras páginas de internet, archivos o ubicaciones dentro de la misma página, direcciones de correo, o cualquier otra URL.
 ![image](https://user-images.githubusercontent.com/75097605/208616839-5518f413-0d94-4af7-92be-c064699e3224.png)
