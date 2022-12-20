@@ -212,7 +212,16 @@ _**Links**_
   
   CSS, o "hojas de estilo en cascada", se utiliza para diseñar y personalizar páginas web. Se puede usar para ajustar el tamaño del contenido, el espaciado, el color y la fuente, o agregar características decorativas, como animaciones o dividir el contenido en columnas.
 
-  _**Tipos de elemenetos **_
+  _**Tipos de elementos**_
 
+  - Elementos en bloque: block elements en inglés siempre empiezan en una nueva línea y ocupan todo el espacio disponible hasta el final de la línea.
+  - Elementos en linea: Los inline elements en inglés son aquellos que se encuentran en el texto del documento HTML. También son a veces llamados elementos de nivel de texto.
   
+  _**Tipos de atributos:**_
+
+  - Atributos genèricos: son aquellos que los defines por el propio elemento, es decir con el nombre de la misma etiqueta
+  
+  - Atributos Core: Son aquellos que los defines en la etiqueta dandole un nombre para poder definirlos, para ello hay tipos, si lo defines como tipo clase pondras . en css lo puedes poner en las etiquetas que quieras, si los defines por id pondras # solo se puede en uno, style se usa para añadirlos en la propia etiqueta los estilos que le querramos meter y title se usa para añadir informacion pequeña dentra de un elemento. 
+  ![image](https://user-images.githubusercontent.com/75097605/208622760-6b98cde3-fc78-4b0a-a3e0-a76a20619f00.png)
+
 
